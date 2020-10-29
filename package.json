@@ -1,0 +1,16 @@
+{
+  "name": "json-fetcher",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "prettier": "^2.1.2",
+    "typescript-eslint": "^0.0.1-alpha.0"
+  },
+  "scripts": {
+    "run": ""
+  }
+}
