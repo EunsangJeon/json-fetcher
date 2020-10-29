@@ -1,16 +1,13 @@
 {
-  "name": "json-fetcher",
-  "version": "0.1.0",
-  "private": true,
+  "name": "typescript-reboot",
+  "version": "1.0.0",
+  "description": "makes a network request to fetch some json and print the result",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eunsang",
+  "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0"
-  },
-  "devDependencies": {
-    "eslint": "^7.12.1",
-    "prettier": "^2.1.2",
-    "typescript-eslint": "^0.0.1-alpha.0"
-  },
-  "scripts": {
-    "run": ""
   }
 }
